@@ -1,16 +1,14 @@
-Generative Ai With IBM Cloud
 Introduction
+
 Project Title
+
  EduTutor AI: Personalized Learning with Generative AI and LMS Integration
 
 Team members
 
 Pamaluru Bhavani
-
 Chaitanya
-
 K Charan Kumar
-
 Ravilla Charan
 
 EduTutor_AI:
