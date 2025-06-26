@@ -1,1 +1,22 @@
-code for EduTutor Ai
+from ibm_watsonx_ai.foundation_models import ModelInference
+
+model_id = "ibm/granite-3-8b-instruct"  
+project_id = "d92838f9-a4f7-4728-91c8-0ce485d35bce" 
+
+credentials = {
+    "url": "https://eu-de.ml.cloud.ibm.com",  
+    "apikey": "b5Gu5kQpy1-gIVKlujwF5yOSK8vuMYQERhURhPuD_4ju"  
+}
+
+model = ModelInference(
+    model_id=model_id,
+    params={"decoding_method": "greedy"},  
+    project_id=project_id,
+    credentials=credentials
+)
+
+prompt = "Explain the concept of ai"
+
+response = model.generate(prompt)
+
+print("Generated Text:",response)
