@@ -2,7 +2,11 @@ Introduction
 
 Project Title
 
- EduTutor AI: Personalized Learning with Generative AI and LMS Integration
+EduTutor AI: Personalized Learning with Generative AI and LMS Integration
+
+Team ID:LTVIP2025TMID30133
+
+Team Size:4
 
 Team members
 
@@ -83,3 +87,17 @@ driven decision making and its applications in various industries
 📋How to run the Notebook Open IBM Watsonx.ai.platform.
 
 Upload and open EduTutor_AI_Notebook.ipynb. Run the cells to generate AI responses for your educational prompts.
+
+How to Run:
+
+1.Open the deployed link -> https://edututorai-9ekfu2pbfz.streamlit.app/
+2.Click Get Answer to get instant AI-powered answers
+
+Important Links:
+
+IBM Watsonx- https://www.ibm.com/watsonx 
+IBM Granite Models Info-https://www.ibm.com/blog/ibm-granite-models
+
+Try Here:
+
+https://edututorai-9ekfu2pbfz.streamlit.app/
