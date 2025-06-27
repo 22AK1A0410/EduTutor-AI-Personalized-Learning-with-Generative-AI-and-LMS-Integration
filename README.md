@@ -78,6 +78,30 @@ RESTful APIs and LTI integration for scalability.
 
 IBM Cloud Pak for Data: Infrastructure for managing and deploying AI models. IBM Watsonx.ai: Platform for building and scaling AI solutions. IBM Granite-13B Instruct-v2 Model: Advanced generative AI model for creating human-like responses. Python: Core programming language for development. Jupyter Notebook / IBM Watson Studio: Environment for model development and experimentation. FeaturesGenerates personalized educational content based on user prompts.Utilizes state-of-the-art generative AI for natural and engaging responses.Scalable and deployable on IBM Cloud for real-world applications.
 
+Advantages:
+
+*Personalized Learning:*
+
+*Adaptive learning*: The AI can continuously assess student performance and adapt its instruction to help students overcome challenges and reinforce concepts.
+
+*Enhanced Engagement:*
+
+*Interactive Learning*: EduTutor AI can create interactive learning experiences that engage students and make learning more enjoyable.
+
+*Scalability:*
+
+Large Student Populations*: EduTutor AI can support large student populations, making it an ideal solution for institutions with limited resources.
+
+Disadvantages:
+
+*Dependence on Data Quality:*
+
+*Biased Data*: If the data used to train EduTutor AI is biased, the AI may perpetuate these biases, potentially leading to unfair or discriminatory outcomes.
+
+*Technical Issues:*
+
+*Technical Difficulties*: EduTutor AI may be prone to technical difficulties, such as glitches or errors, which can disrupt the learning experience.
+
 Sample Prompt:
 
 Explain the concept of ai
