@@ -9,10 +9,13 @@ Team Size:4
 
 Team members
 
-Pamaluru Bhavani
-Chaitanya
-K Charan Kumar
-Ravilla Charan
+Team Leader:Pamaluru Bhavani
+
+Team Member:Chaitanya
+
+Team Member:K Charan Kumar
+
+Team Member:Ravilla Charan
 
 EduTutor_AI:
 
