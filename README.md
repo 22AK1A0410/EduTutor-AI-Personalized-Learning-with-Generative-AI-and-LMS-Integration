@@ -1,7 +1,4 @@
-
-Project Title
-
-EduTutor AI: Personalized Learning with Generative AI and LMS Integration
+Project Title:EduTutor AI: Personalized Learning with Generative AI and LMS Integration
 
 Team ID:LTVIP2025TMID30133
 
@@ -35,6 +32,7 @@ Features
 
 AI tailors content based on student performance, learning pace, and preferences.
 Adaptive learning algorithms recommend specific modules, resources, or exercises.
+Project Title
 
 🧠 2. Generative AI-Powered Content Creation
 
