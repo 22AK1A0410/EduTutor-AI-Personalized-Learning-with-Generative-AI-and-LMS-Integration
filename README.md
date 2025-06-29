@@ -1,4 +1,4 @@
-Project Title:EduTutor AI: Personalized Learning with Generative AI and LMS Integration
+##Project Title:EduTutor AI: Personalized Learning with Generative AI and LMS Integration
 
 Team ID:LTVIP2025TMID30133
 
