@@ -21,6 +21,10 @@ EduTutor_AI:
 
 EduTutor_AI-Personalized Learning Powered by IBM Watsonx and Generative AI
 
+Try Here:
+
+https://edututorai-9ekfu2pbfz.streamlit.app/
+
 🎯Project Overview
 
 EduTutor_AI is an innovative project that leverages the power of IBM Watsonx AI's Granite-13B Instruct-v2 model to provide personalized learning experiences.By generating human-like responses to user prompts, this project aims to enhance education through adaptive and intelligent tutoring tailored to individual needs.
@@ -126,6 +130,3 @@ IBM Watsonx- https://www.ibm.com/watsonx
 
 IBM Granite Models Info-https://www.ibm.com/blog/ibm-granite-models
 
-Try Here:
-
-https://edututorai-9ekfu2pbfz.streamlit.app/
