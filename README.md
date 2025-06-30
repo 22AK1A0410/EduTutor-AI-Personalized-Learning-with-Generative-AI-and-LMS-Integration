@@ -20,7 +20,7 @@ EduTutor_AI-Personalized Learning Powered by IBM Watsonx and Generative AI
 
 # Try Here:
 
-https://edututorai-9ekfu2pbfz.streamlit.app/
+https://edututor-ai-personalized-learning-with-generative-ai-and-lms-i.streamlit.app/
 
 # 🎯Project Overview
 
