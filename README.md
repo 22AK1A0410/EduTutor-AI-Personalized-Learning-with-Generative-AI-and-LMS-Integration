@@ -70,7 +70,9 @@ Upload and open EduTutor_AI_Notebook.ipynb. Run the cells to generate AI respons
 
 # How to Run:
 
-1.Open the deployed link -> https://edututorai-9ekfu2pbfz.streamlit.app/
+1.Open the deployed link -> 
+
+https://edututor-ai-personalized-learning-with-generative-ai-and-lms-i.streamlit.app/
 
 2.Click Get Answer to get instant AI-powered answers
 
