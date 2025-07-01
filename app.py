@@ -16,12 +16,12 @@ question = st.text_input("Ask your question:")
 
 if st.button("Get Answer") and question.strip() != "":
     model = ModelInference(
-        model_id=model_id,
+        model_id="ibm/granite-13b-instruct-v2",
         params={
             "decoding_method": "greedy",
-            "max_new_tokens": 100
+            "max_new_tokens": 500
         },
-        project_id=project_id,
+        project_id="ef457d57-bdd1-49aa-9e80-53bd5b3afbe8",
         credentials=credentials
     )
     
