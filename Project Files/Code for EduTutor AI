@@ -1,5 +1,4 @@
-
-   import streamlit as st
+import streamlit as st
 from ibm_watsonx_ai.foundation_models import ModelInference
 
 # Watsonx credentials and settings
