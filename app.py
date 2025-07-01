@@ -20,7 +20,6 @@ if st.button("Get Answer") and question.strip() != "":
         project_id=project_id,
         credentials=credentials
     )
-
     response = model.generate(question)
     answer = response["results"][0]["generated_text"]
     st.write(answer)
