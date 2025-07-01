@@ -3,10 +3,10 @@ from ibm_watsonx_ai.foundation_models import ModelInference
 
 # Watsonx credentials and settings
 model_id = "ibm/granite-3-8b-instruct"
-project_id = "ef457d57-bdd1-49aa-9e80-53bd5b3afbe8" 
+project_id = "d92838f9-a4f7-4728-91c8-0ce485d35bce" 
 credentials = {
     "url": "https://eu-de.ml.cloud.ibm.com", 
-    "apikey": "S1zl_mgeQVqjItIpyy8d6-ZQmA0oP82sJ0x-d5AiPhpk"  
+    "apikey": "b5Gu5kQpy1-gIVKlujwF5yOSK8vuMYQERhURhPuD_4ju"  
 }
 
 # Streamlit UI
@@ -24,7 +24,7 @@ if st.button("Get Answer") and question.strip() != "":
         project_id=project_id,
         credentials=credentials
     )
-    
+
     response = model.generate(question)
     answer = response["results"][0]["generated_text"]
     st.write(answer)
