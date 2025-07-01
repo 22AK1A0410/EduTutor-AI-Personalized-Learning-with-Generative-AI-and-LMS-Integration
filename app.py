@@ -2,7 +2,7 @@ import streamlit as st
 from ibm_watsonx_ai.foundation_models import ModelInference
 
 # Watsonx credentials and settings
-model_id = "ibm/granite-3-8b-instruct"
+model_id = "ibm/granite-13b-instruct-v2"
 project_id = "ef457d57-bdd1-49aa-9e80-53bd5b3afbe8" 
 credentials = {
     "url": "https://eu-de.ml.cloud.ibm.com", 
@@ -19,7 +19,7 @@ if st.button("Get Answer") and question.strip() != "":
         model_id=model_id,
         params={
             "decoding_method": "greedy",
-            "max_new_tokens": 500
+            "max_new_tokens": 100
         },
         project_id=project_id,
         credentials=credentials
