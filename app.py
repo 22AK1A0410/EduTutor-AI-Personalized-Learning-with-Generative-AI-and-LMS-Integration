@@ -1,6 +1,6 @@
  from ibm_watsonx_ai.foundation_models import ModelInference
 
-model_id = "ibm/granite-13b-instruct-v2"  
+model_id = "ibm/granite-3-8b-instruct"  
 project_id = "ef457d57-bdd1-49aa-9e80-53bd5b3afbe8" 
 
 credentials = {
