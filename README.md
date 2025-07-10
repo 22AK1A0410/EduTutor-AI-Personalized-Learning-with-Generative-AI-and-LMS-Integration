@@ -26,7 +26,7 @@ https://edututor-ai-personalized-learning-with-generative-ai-and-lms-i.streamlit
 
 EduTutor_AI is an innovative project that leverages the power of IBM Watsonx AI's Granite-13B Instruct-v2 model to provide personalized learning experiences.By generating human-like responses to user prompts, this project aims to enhance education through adaptive and intelligent tutoring tailored to individual needs.
 
-#Features
+# Features
 
 1. Personalized Learning Paths
 
